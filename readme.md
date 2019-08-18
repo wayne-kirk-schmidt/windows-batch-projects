@@ -33,12 +33,13 @@ Script Names and Purposes
 Scripts and Functions:
 
     1.  evtutil-dumper - a cheerful little means to extract event files from windows
+    2.  winaudit - a cheerful little means to audit a windws host
         
 To Do List:
 ===========
 
-* add more scripts!
-* add script functions and example to mix and match
+* add more scripts
+* add script functions to mix and match
 
 License
 =======
