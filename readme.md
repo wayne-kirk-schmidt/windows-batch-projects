@@ -34,6 +34,7 @@ Scripts and Functions:
 
     1.  evtutil-dumper - a cheerful little means to extract event files from windows
     2.  winaudit - a cheerful little means to audit a windws host
+    2.  winversion - a quick way to keep the versions of windows OS straight and find out what OS you are running
         
 To Do List:
 ===========
